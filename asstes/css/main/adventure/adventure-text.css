@@ -1,0 +1,9 @@
+.adventure__text{
+    margin: 1.87rem 0;
+}
+
+@media screen and (min-width: 922px) {
+    .adventure__text{
+        margin: 1.87rem;
+    }
+}

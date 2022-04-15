@@ -1,0 +1,12 @@
+.networks{
+    position: relative;
+}
+
+@media screen and (min-width: 922px) {
+    .networks{
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        width: 50%;
+    }
+}

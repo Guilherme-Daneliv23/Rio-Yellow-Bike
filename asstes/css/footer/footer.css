@@ -1,0 +1,9 @@
+footer{
+    background-color: #403233;
+}
+
+@media screen and (min-width: 922px) {
+    footer{
+        display: flex;
+    }
+}

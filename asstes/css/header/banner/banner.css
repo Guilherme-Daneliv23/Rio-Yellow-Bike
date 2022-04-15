@@ -1,0 +1,15 @@
+.banner{
+    align-items: center;
+    background-color: #FFB60A;
+    border-bottom: 0.06rem solid #fdfdfd;
+    display: flex;
+    height: 4.37rem;
+    justify-content: center;
+    width: 100%;
+}
+
+@media screen and (min-width: 922px) {
+    .banner{
+        width: 50%;
+    }
+}

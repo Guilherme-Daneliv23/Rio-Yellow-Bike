@@ -1,0 +1,11 @@
+.purpose__contents-img{
+    height: 45%;
+    width: 50%;
+}
+
+@media screen and (min-width: 768px) {
+    .purpose__contents-img{
+        height: 27%;
+        width: 30%;
+    }
+}

@@ -1,0 +1,10 @@
+.about{
+    text-align: center;
+    margin: 4.06rem 1.25rem;
+}
+
+@media screen and (min-width: 922px) {
+    .about{
+        margin: 7% 20%;
+    }
+}

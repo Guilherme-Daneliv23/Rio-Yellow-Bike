@@ -1,0 +1,12 @@
+.purpose__contents{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 2.5rem 0;
+}
+
+@media screen and (min-width: 768px) {
+    .purpose__contents{
+        justify-content: space-around;
+    }
+}

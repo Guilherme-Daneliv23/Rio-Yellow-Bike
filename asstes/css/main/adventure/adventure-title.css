@@ -1,0 +1,10 @@
+.adventure__title{
+    border-bottom: 0.43rem solid #FFB60A;
+    margin: 0 7%;
+}
+
+@media screen and (min-width: 922px) {
+    .adventure__title{
+        margin: 0 20%;
+    }
+}

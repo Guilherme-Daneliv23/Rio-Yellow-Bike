@@ -1,0 +1,15 @@
+.navegation__list{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    height: 3.75rem;
+    width: 100%;
+}
+
+@media screen and (min-width: 922px) {
+    .navegation__list{
+        margin: 0 25%;
+        width: 50%;
+    }
+}
+

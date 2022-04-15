@@ -1,0 +1,9 @@
+.adventure__img{
+    width: 100%;
+}
+
+@media screen and (min-width: 922px) {
+    .adventure__img{
+        width: 50%;
+    }
+}

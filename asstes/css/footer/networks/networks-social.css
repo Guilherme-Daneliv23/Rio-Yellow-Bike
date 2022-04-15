@@ -1,0 +1,8 @@
+.networks__social{
+    color: #FDFDFD;
+    display: flex;
+    height: 12.5rem;
+    justify-content: space-between;
+    margin-left: 1.87rem;
+    width: 15rem;
+}

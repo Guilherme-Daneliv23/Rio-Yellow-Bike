@@ -1,0 +1,10 @@
+.vehicles__img{
+    margin-top: 1.87rem;
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .vehicles__img{
+        width: 70%;
+    }
+}

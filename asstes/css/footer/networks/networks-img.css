@@ -1,0 +1,8 @@
+.networks__img{
+    bottom: 1.25rem;
+    height: 2.5rem;
+    position: absolute;
+    right: 2.5rem;
+    width: 10rem;
+    z-index: 1;
+}

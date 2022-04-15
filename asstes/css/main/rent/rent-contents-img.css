@@ -1,0 +1,11 @@
+.rent__contents-img{
+    height: 45%;
+    width: 40%;
+}
+
+@media screen and (min-width: 768px) {
+    .rent__contents-img{
+        height: 23%;
+        width: 20%;
+    }
+}

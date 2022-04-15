@@ -1,0 +1,11 @@
+.adventure__contents{
+    margin-top: 1.25rem;
+    text-align: center;
+}
+
+@media screen and (min-width: 922px) {
+    .adventure__contents{
+        margin-top: 0;
+        width: 50%;
+    }
+}

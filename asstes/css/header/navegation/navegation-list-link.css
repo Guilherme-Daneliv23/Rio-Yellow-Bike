@@ -1,0 +1,8 @@
+.navegation__list-link{
+    color: #FDFDFD;
+    text-decoration: none;
+}
+
+.active{
+    color: #FFB60A;
+}

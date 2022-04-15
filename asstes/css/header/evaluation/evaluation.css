@@ -1,0 +1,25 @@
+.evaluation{
+    align-items: center;
+    background-color: #FFB60A;
+    border-bottom: 0.06rem solid #FDFDFD;
+    display: flex;
+    height: 3.75rem;
+    justify-content: center;
+    width: 100%;
+}
+
+.evaluation2{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 3.75rem 0;
+    width: 100%;
+}
+
+@media screen and (min-width: 922px) {
+    .evaluation{
+        border-left: 0.06rem solid #FDFDFD;
+        height: 4.37rem;
+        width: 50%;
+    }
+}

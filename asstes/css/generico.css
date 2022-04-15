@@ -1,0 +1,45 @@
+html{
+    font: 16px;
+}
+
+body{
+    background-color: #FDFDFD;
+}
+
+h1, h2, h3{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+.titulo1{
+    font-size: 2.25em;
+}
+
+.titulo2{
+    font-size: 1.75em;
+}
+
+.titulo3{
+    font-size: 1.5rem;
+}
+
+.subtitulo1{
+    font-size: 1.75rem;
+    color: #CDCDCD;
+}
+
+.subtitulo2{
+    font-size: 1.5rem;
+    color: #CDCDCD;
+}
+
+.subtitulo3{
+    font-size: 1.25rem;
+    color: #CDCDCD;
+}
+
+p{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.125rem;
+}

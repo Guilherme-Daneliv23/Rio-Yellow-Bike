@@ -1,0 +1,9 @@
+.evaluation__button{
+    background-color: #fdfdfd;
+    border: 0.12rem solid #008000;
+    border-radius: 0.31rem;
+    color: #008000;
+    font-weight: bold;
+    height: 2.18rem;
+    width: 5.62rem;
+}
