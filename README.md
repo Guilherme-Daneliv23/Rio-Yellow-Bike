@@ -10,7 +10,7 @@
 * [Acesso ao projeto](#acesso-ao-projeto)
 * [Desenvolvedor](#desenvolvedor)
 
-## :page_with_curl: Descrição do projeto
+<h2 id="descricao-do-projeto">:page_with_curl: Descrição do projeto</h2>
 
 O Rio Yellow Bike é um site desenvolvido para praticar as linguagens de programação HTML, CSS e JavaScript.
 
@@ -22,7 +22,7 @@ O site foi desenvolvido em inglês para praticar as habilidades nesse idioma, po
 
 
 
-## :dart: Objetivos
+<h2 id="objetivos">:dart: Objetivos</h2>
 
 `Objetivo 1`: Demonstrar o conhecimento do uso de tags HTML e também sobre formas de estilos em CSS;
 
@@ -32,20 +32,21 @@ O site foi desenvolvido em inglês para praticar as habilidades nesse idioma, po
 
 
 
-## :wrench: Ferramentas e linguagens
+<h2 id="ferramentas-utilizadas">:wrench: Ferramentas e linguagens</h2>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" heigth="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" heigth="60"/> 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" heigth="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="60" heigth="60"/>
 
 
-## :open_file_folder: Acesso ao projeto
+<h2 id="acesso-ao-projeto">:open_file_folder: Acesso ao projeto</h2>
 
 Você pode acessar [o código do projeto](https://github.com/Guilherme-Daneliv23/Rio-Yellow-Bike), se prefirir [baixar](https://github.com/Guilherme-Daneliv23/Rio-Yellow-Bike/archive/refs/heads/master.zip) o mesmo.
 
 Para visualizar o projeto publicado, [clique aqui](https://guilherme-daneliv23.github.io/Rio-Yellow-Bike/)!
 
 
-## Desenvolvedor
+<h2 id="desenvolvedor">Desenvolvedor</h2>
 
 | [<img src="https://avatars.githubusercontent.com/u/96242192?s=400&u=783dbb5409f87ef1ef2772cf524eb3f69b1e61fe&v=4" width=115><br><sub >Guilherme Daneliv</sub>](https://github.com/Guilherme-Daneliv23) |
 | :---: |
